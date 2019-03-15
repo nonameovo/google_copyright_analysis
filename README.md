@@ -1,6 +1,6 @@
-## google_copyright_analysis
-------------
-requests.csv
+# google_copyright_analysis
+
+## requests.csv
 
 This file contains the information for all requests for URLs to
 be delisted from Web Search results for copyright violations. The information is
@@ -17,7 +17,7 @@ request that are still pending review, and a value indicating if we believe
 that the request was from someone we believe to be abusing the process.
 
 
-domains.csv
+## domains.csv
 
 This file contains the information for all domains which had a URL requested to
 be delisted from Web Search results for copyright violations. The information is
@@ -31,7 +31,7 @@ review, and a value indicating if we believe that the request was from someone
 we believe to be abusing the process.
 
 
-urls-no-action-taken.csv
+## urls-no-action-taken.csv
 
 This file contains the information for all URLs requested to be delisted from
 Web Search results for copyright violations for which we took no action on the
