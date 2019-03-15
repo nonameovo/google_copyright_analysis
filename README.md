@@ -1,4 +1,5 @@
-"# google_copyright_analysis" 
+## google_copyright_analysis
+------------
 requests.csv
 
 This file contains the information for all requests for URLs to
